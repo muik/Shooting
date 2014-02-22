@@ -6,7 +6,7 @@ public class MissileProcess : MonoBehaviour {
 	public GameObject enemy;
 	public Transform missilePosition = null;
 	private float interval = 0;
-	private float intervalMax = 0.03f;//0.05f;
+	private float intervalMax = 0.05f;//0.05f;
 	
 	// Update is called once per frame
 	void Update () {

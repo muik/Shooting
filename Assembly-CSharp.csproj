@@ -47,11 +47,17 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Sources\DestroyZone.cs" />
+     <Compile Include="Assets\Sources\Gold.cs" />
+     <Compile Include="Assets\Sources\MapScrollSpeed.cs" />
+     <Compile Include="Assets\Sources\Meteorite.cs" />
+     <Compile Include="Assets\Sources\MeteoriteManager.cs" />
      <Compile Include="Assets\Sources\Missile.cs" />
      <Compile Include="Assets\Sources\MissileProcess.cs" />
      <Compile Include="Assets\Sources\Monster.cs" />
      <Compile Include="Assets\Sources\MonsterManager.cs" />
+     <Compile Include="Assets\Sources\MonsterPool.cs" />
      <Compile Include="Assets\Sources\PlayerMove.cs" />
+     <Compile Include="Assets\Sources\PlayerState.cs" />
      <Compile Include="Assets\Sources\Test.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

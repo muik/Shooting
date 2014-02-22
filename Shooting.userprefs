@@ -1,13 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sources\MonsterManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sources\Monster.cs">
     <Files>
-      <File FileName="Assets\Sources\DestroyZone.cs" Line="8" Column="5" />
+      <File FileName="Assets\Sources\Monster.cs" Line="27" Column="27" />
       <File FileName="Assets\Sources\MissileProcess.cs" Line="1" Column="1" />
-      <File FileName="Assets\Sources\Monster.cs" Line="67" Column="18" />
-      <File FileName="Assets\Sources\MonsterManager.cs" Line="18" Column="2" />
-      <File FileName="Assets\Sources\Missile.cs" Line="1" Column="1" />
-      <File FileName="Assets\Sources\PlayerMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sources\MonsterManager.cs" Line="13" Column="32" />
+      <File FileName="Assets\Sources\PlayerState.cs" Line="75" Column="5" />
+      <File FileName="Assets\Sources\MapScrollSpeed.cs" Line="6" Column="25" />
+      <File FileName="Assets\Sources\MonsterPool.cs" Line="36" Column="1" />
+      <File FileName="Assets\Sources\DestroyZone.cs" Line="9" Column="2" />
+      <File FileName="Assets\Sources\MeteoriteManager.cs" Line="14" Column="37" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
